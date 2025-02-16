@@ -9,7 +9,7 @@
                                   <marquee><h1></h1>  🖕🏿🖕🏿🖕🏿     🖕🏿🖕🏿🖕🏿      🖕🏿🖕🏿🖕🏿 </marquee></a>
 </div>
   <h1>
-                                  ubur ubur ikan lele muka lu kayak lele                
+                                ubur ubur ikan lele muka lu kayak lele                
   </h1>
 </body>
 </html>
